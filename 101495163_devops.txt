@@ -1,1 +1,3 @@
 Understanding the DevOps culture and its importance in modern software development.
+Basics of Kubernetes for container orchestration.
+
