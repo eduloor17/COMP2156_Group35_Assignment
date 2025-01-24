@@ -5,3 +5,4 @@ Prepares students for certifications like AWS Certified DevOps Engineer
 Writing scripts to automate backups and restores.
 Collaboration and Teamwork
 Troubleshooting deployment issues in real-time
+Helps students build soft skills critical for DevOps, like communication and adaptability.
