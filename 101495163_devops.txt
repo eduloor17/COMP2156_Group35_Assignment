@@ -2,3 +2,4 @@ Understanding the DevOps culture and its importance in modern software developme
 Basics of Kubernetes for container orchestration.
 Writing YAML files for pipeline configurations.
 Introduction to containerization using Docker.
+Monitoring and Logging: Tools like Prometheus, Grafana, and ELK Stack.
