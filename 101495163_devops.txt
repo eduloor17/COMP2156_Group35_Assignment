@@ -4,3 +4,4 @@ Writing YAML files for pipeline configurations.
 Introduction to containerization using Docker.
 Monitoring and Logging: Tools like Prometheus, Grafana, and ELK Stack.
 Prometheus and Grafana for monitoring.
+Monitoring application performance using modern tools.
