@@ -1,1 +1,2 @@
 Introduces tools and techniques for automation, monitoring, and deployment.
+Focuses on collaboration and communication between teams.
