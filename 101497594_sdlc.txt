@@ -6,5 +6,5 @@ Aligns business goals with technical objectives.
 Simplifies complex workflows by using tools like Jenkins, GitHub Actions, or CircleCI.
 Enables Continuous Delivery (CD) for regular and smooth deployments
 Encourages experimentation and rapid prototyping.
-
- Automates build, test, and deploy processes.
+Automates build, test, and deploy processes.
+Prevents breaches with real-time monitoring and alerts.
