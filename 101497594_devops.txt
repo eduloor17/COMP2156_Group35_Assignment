@@ -7,4 +7,3 @@ Cloud Computing: Deploying applications on platforms like AWS, Azure, or Google 
 Provides opportunities to practice peer code reviews.
 Develop an understanding of security in the CI/CD pipeline.
 Creating and running Docker images.
-Provides knowledge of incident response strategies.
