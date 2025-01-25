@@ -7,3 +7,4 @@ Simplifies complex workflows by using tools like Jenkins, GitHub Actions, or Cir
 Enables Continuous Delivery (CD) for regular and smooth deployments
 Encourages experimentation and rapid prototyping.
 
+ Automates build, test, and deploy processes.
