@@ -1,1 +1,2 @@
 Deploying a multi-container application using Docker Compose.
+Deploying applications on virtual machines (VMs) and containers.
