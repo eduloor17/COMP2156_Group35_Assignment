@@ -1,3 +1,4 @@
 Deploying a multi-container application using Docker Compose.
 Deploying applications on virtual machines (VMs) and containers.
 Understand the importance of feedback loops in improving processes.
+Encourages teamwork through group projects
