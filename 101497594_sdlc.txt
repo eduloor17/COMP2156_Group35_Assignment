@@ -1,2 +1,3 @@
 Improves user experience by ensuring stable and reliable applications.
 Adapts to changing business needs quickly and efficiently.
+Minimizes expenses on infrastructure with cloud-native practices.
