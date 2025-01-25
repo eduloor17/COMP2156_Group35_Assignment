@@ -5,3 +5,5 @@ Ensures secure deployments through continuous audits.
 Aligns business goals with technical objectives.
 Simplifies complex workflows by using tools like Jenkins, GitHub Actions, or CircleCI.
 Enables Continuous Delivery (CD) for regular and smooth deployments
+Encourages experimentation and rapid prototyping.
+
