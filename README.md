@@ -1,5 +1,7 @@
 # COMP2156_Group35_Assignment
 
+![create new file option](/images/logo-group35.png)
+
 ## Group Members
 - **Leader:** Eduardo Loor (101503932) - [GitHub](https://github.com/eduloor17)
 - **Member 6:** Gabriel Mello de Freitas (101497594) - [GitHub](https://github.com/thegabrielmfreitas)
