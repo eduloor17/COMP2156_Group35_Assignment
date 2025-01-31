@@ -7,3 +7,4 @@ Promotes the use of code reviews and peer collaboration.
 Reduces human errors through scripted pipelines.
 Frees developers and operations teams to focus on innovative tasks.
 Lowers operational costs by reducing manual overhead.
+Automates vulnerability scanning in pipelines.

@@ -7,3 +7,4 @@ Develops skills to manage high-availability systems.
 Simulates real-world scenarios with cross-functional collaboration.
 Setting up basic load balancers and scaling systems in the cloud.
 Creating disaster recovery plans as part of a project.
+Students learn to break down silos between development and operations teams.
