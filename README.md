@@ -5,6 +5,7 @@
 ## Group Members
 - **Leader:** Eduardo Loor (101503932) - [GitHub](https://github.com/eduloor17)
 - **Member 2:** Athittaya Thiprak (101543651) - [GitHub](https://github.com/ayathita)
+- **Member 4:** Mario Rayala Jr (101478443) - [GitHub](https://github.com/mariorayalajr)
 - **Member 6:** Gabriel Mello de Freitas (101497594) - [GitHub](https://github.com/thegabrielmfreitas)
 
 ### If you fork the repository, you can follow these instructions:
