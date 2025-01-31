@@ -6,6 +6,7 @@
 - **Leader:** Eduardo Loor (101503932) - [GitHub](https://github.com/eduloor17)
 - **Member 2:** Athittaya Thiprak (101543651) - [GitHub](https://github.com/ayathita)
 - **Member 4:** Mario Rayala Jr (101478443) - [GitHub](https://github.com/mariorayalajr)
+- **Member 5:** Rodrigo Lima (101495163) - [GitHub](https://github.com/rodrigolima46)
 - **Member 6:** Gabriel Mello de Freitas (101497594) - [GitHub](https://github.com/thegabrielmfreitas)
 
 ### If you fork the repository, you can follow these instructions:
@@ -33,6 +34,10 @@ git push origin studentid-Name
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in the [ci.yml file](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/.github/workflows/ci.yml).
 You can view the workflow file directly by clicking the link above.
 
+## Branching Strategy
+Branch Protection Rules are enabled to ensure all changes are reviewed and merged by the leader before integration into the main repository, including both direct contributions and those from forks.
+
+
 ## Group Assignment - Files details
 
 ### StudentID: 101503932 - Eduardo Loor
@@ -46,6 +51,14 @@ I have produced three text files in my work:
   1. Highlight the key aspects of George Brown College, including its location and services.
   2. Explain the goals and outcomes of the COMP2156-DevOps course for students.
   3. Discuss how DevOps improves processes and collaboration in software development.
+
+
+  ### StudendID: 101495163 - Rodrigo Lima
+I have incorporated three text files:
+  1. Describe George Brown College, its mission, and student resources.
+  2. Highlight the structure and goals of the COMP2156-DevOps course.
+  3. Discuss the role of DevOps in enhancing software development processes
+
 
 ### StudendID: 101497594 - Gabriel Mello de Freitas
 I have developed three .txt files as part of my assignment:
