@@ -1,1 +1,2 @@
 Provides disaster recovery through infrastructure automation.
+Enables dynamic resource allocation in cloud environments.

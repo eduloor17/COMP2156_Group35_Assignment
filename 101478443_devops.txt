@@ -1,1 +1,2 @@
 Automating the creation of cloud resources with Terraform.
+Learn how to manage and deploy scalable applications.
