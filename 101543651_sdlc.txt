@@ -4,3 +4,4 @@ Reduces misunderstandings through clear communication channels.
 Reduces bugs by catching errors earlier in the pipeline.
 Enables faster software development and delivery cycles.
 Reduces time-to-market for new features and products.
+Ensures higher code quality through automated testing
