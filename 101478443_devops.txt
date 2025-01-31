@@ -3,3 +3,4 @@ Learn how to manage and deploy scalable applications.
 Configuring a secure connection between servers using SSL/TLS.
 Prepares students for real-world DevOps roles like Site Reliability Engineer or DevOps Engineer.
 Builds familiarity with the tools used in large-scale organizations.
+Develops skills to manage high-availability systems.

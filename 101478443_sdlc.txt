@@ -3,3 +3,4 @@ Enables dynamic resource allocation in cloud environments.
 Optimizes resource utilization through automation.
 Supports Continuous Integration (CI) for frequent code merges.
 Improves software reliability through consistent environments.
+Promotes the use of code reviews and peer collaboration.
