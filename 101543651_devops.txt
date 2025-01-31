@@ -6,3 +6,4 @@ GitHub for version control and collaboration.
 Optimizing pipelines for faster deployments
 Developing a rollback strategy for failed deployments.
 Gain proficiency in automation to save time and reduce errors.
+Building a simple CI/CD pipeline for a web application.
