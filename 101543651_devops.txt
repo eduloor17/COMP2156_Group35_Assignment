@@ -2,3 +2,4 @@ Deploying applications using Kubernetes pods, deployments, and services.
 Continuous Integration or CI - Automating the testing and integration of code changes.
 Version Control Systems: Using Git for collaboration and code management.
 AWS, Azure, or GCP for cloud deployment.
+GitHub for version control and collaboration.
