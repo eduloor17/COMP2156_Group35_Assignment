@@ -5,3 +5,4 @@ Prepares students for real-world DevOps roles like Site Reliability Engineer or 
 Builds familiarity with the tools used in large-scale organizations.
 Develops skills to manage high-availability systems.
 Simulates real-world scenarios with cross-functional collaboration.
+Setting up basic load balancers and scaling systems in the cloud.
