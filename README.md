@@ -43,26 +43,35 @@ Branch Protection Rules are enabled to ensure all changes are reviewed and merge
 ### StudentID: 101503932 - Eduardo Loor
 My submission contains three text files:
   1. Information about George Brown College, its facilities, and the opportunities it offers.
+  [101503932_gb.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101503932_gb.txt)
   2. An overview of the COMP2156-DevOps course, including its learning objectives and relevance to industry practices.
+  [101503932_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101503932_devops.txt)
   3. A discussion on the importance of DevOps in the Software Development Life Cycle (SDLC) and its role in modern software development.
+  [101503932_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101503932_sdlc.txt)
 
 ### StudendID: 101543651 - Athittaya Thiprak
 I have produced three text files in my work:
   1. Highlight the key aspects of George Brown College, including its location and services.
+  [101543651_gb.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101543651_gb.txt)
   2. Explain the goals and outcomes of the COMP2156-DevOps course for students.
+  [101543651_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101543651_devops.txt)
   3. Discuss how DevOps improves processes and collaboration in software development.
+  [101543651_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101543651_sdlc.txt)
 
-
-  ### StudendID: 101495163 - Rodrigo Lima
+### StudendID: 101495163 - Rodrigo Lima
 I have incorporated three text files:
   1. Describe George Brown College, its mission, and student resources.
+  [101495163_gb.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101495163_gb.txt)
   2. Highlight the structure and goals of the COMP2156-DevOps course.
-  3. Discuss the role of DevOps in enhancing software development processes
-
+  [101495163_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101495163_devops.txt)
+  3. Discuss the role of DevOps in enhancing software development processes.
+  [101495163_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101495163_sdlc.txt)
 
 ### StudendID: 101497594 - Gabriel Mello de Freitas
 I have developed three .txt files as part of my assignment:
   1. Outline George Brown College’s offerings, location, and student success initiatives.
+  [101497594_gb.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101497594_gb.txt)
   2. Explain the COMP2156-DevOps course, focusing on its practical applications.
+  [101497594_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101497594_devops.txt)
   3. Discuss the significance of DevOps in modern SDLC practices and its advantages.
-
+  [101497594_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101497594_sdlc.txt)
