@@ -3,3 +3,4 @@ Continuous Integration or CI - Automating the testing and integration of code ch
 Version Control Systems: Using Git for collaboration and code management.
 AWS, Azure, or GCP for cloud deployment.
 GitHub for version control and collaboration.
+Optimizing pipelines for faster deployments
