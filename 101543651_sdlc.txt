@@ -1,0 +1,1 @@
+Encourages frequent and iterative development, improving software stability.
