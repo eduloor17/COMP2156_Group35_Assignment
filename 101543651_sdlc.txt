@@ -1,1 +1,2 @@
 Encourages frequent and iterative development, improving software stability.
+Reduces risks by embedding security as part of the life cycle.
