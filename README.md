@@ -35,6 +35,27 @@ git pull origin main
 git push origin studentid-Name
 ```
 
+### If you fork the repository, you can follow these instructions:
+1. Clone the repository by using:
+```
+git clone https://github.com/your-username/COMP2156_Group35_Assignment.git
+```
+
+2. Create a new branch using:
+```
+git checkout -b studentid-Name
+```
+
+3. Edit, add, and commit your changes and then push your changes to the remote repository using:
+```
+git push origin studentid-Name
+```
+
+5. Create a pull request to the main branch by using the GitHub interface.
+  ![create new file option](/images/pull-request.png)
+ 
+7. Wait for the pull request to be reviewed and merged that only the leader can do.
+
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in the [ci.yml file](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/.github/workflows/ci.yml).
 You can view the workflow file directly by clicking the link above.
