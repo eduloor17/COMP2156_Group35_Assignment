@@ -9,26 +9,31 @@
 - **Member 5:** Rodrigo Lima (101495163) - [GitHub](https://github.com/rodrigolima46)
 - **Member 6:** Gabriel Mello de Freitas (101497594) - [GitHub](https://github.com/thegabrielmfreitas)
 
-### If you fork the repository, you can follow these instructions:
-1. Clone the repository by using:
+## Setup Instructions
+### IF you are an collaborators in COMP2156_Group35_Assignment, you can follow this Instructions:
+1. **Clone the repository** by using:
 ```
-git clone https://github.com/your-username/COMP2156_Group35_Assignment.git
-```
-
-2. Create a new branch using:
-```
-git checkout -b studentid-Name
+git clone https://github.com/eduloor17/COMP2156_Group35_Assignment.git.
 ```
 
-3. Edit, add, and commit your changes and then push your changes to the remote repository using:
+2. **Switch to your branch** by enter this command:
+```
+git checkout studentid-Name
+```
+
+3. **Prior to commencing any tasks**, ensure that the ** following steps are up to date **.
+**Update all branches**:
+```
+git fetch
+```
+**Get** the last changes **from main**:
+```
+git pull origin main
+```
+**Pull** all changes into **your branch**:
 ```
 git push origin studentid-Name
 ```
-
-5. Create a pull request to the main branch by using the GitHub interface.
-  ![create new file option](/images/pull-request.png)
- 
-7. Wait for the pull request to be reviewed and merged that only the leader can do.
 
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in the [ci.yml file](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/.github/workflows/ci.yml).
@@ -65,7 +70,7 @@ I have created three text files as part of my work:
 2. Detail the COMP2156-DevOps course and its alignment with industry demands.
 [101478443_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101478443_devops.txt)
 3. Examine the value of DevOps in the SDLC, including efficiency and quality improvements.
-[101478443_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101478443_sdlc.txt)
+[101478443_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101478443_sdlc.txt
 
 ### StudendID: 101495163 - Rodrigo Lima
 I have incorporated three text files:
