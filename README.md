@@ -58,6 +58,15 @@ I have produced three text files in my work:
   3. Discuss how DevOps improves processes and collaboration in software development.
   [101543651_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101543651_sdlc.txt)
 
+### StudendID: 101478443 - Mario Rayala Jr
+I have created three text files as part of my work:
+1. Provide an overview of George Brown College and its educational offerings.
+[101478443_gb.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101478443_gb.txt)
+2. Detail the COMP2156-DevOps course and its alignment with industry demands.
+[101478443_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101478443_devops.txt)
+3. Examine the value of DevOps in the SDLC, including efficiency and quality improvements.
+[101478443_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101478443_sdlc.txt)
+
 ### StudendID: 101495163 - Rodrigo Lima
 I have incorporated three text files:
   1. Describe George Brown College, its mission, and student resources.
