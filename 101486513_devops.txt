@@ -6,3 +6,4 @@ Teaches students to use tools like Jira or Trello for task management.
 Ansible or Chef for configuration management.
 Monitoring server health using Prometheus and visualizing data with Grafana.
 Equips students with skills to automate and optimize software delivery processes.
+Learn how to integrate GitHub, Jenkins, and Docker on a Raspberry Pi.
