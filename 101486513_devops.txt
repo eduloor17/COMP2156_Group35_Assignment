@@ -1,2 +1,3 @@
 Configuring CI/CD pipelines using tools like Jenkins, GitHub Actions, or Travis CI.
 Using IaC to configure servers and environments.
+Kubernetes for scaling and managing containers.
