@@ -5,6 +5,7 @@
 ## Group Members
 - **Leader:** Eduardo Loor (101503932) - [GitHub](https://github.com/eduloor17)
 - **Member 2:** Athittaya Thiprak (101543651) - [GitHub](https://github.com/ayathita)
+- **Member 3:** Jeremy Puican (101486513) - [GitHub](https://github.com/jeremyp07)
 - **Member 4:** Mario Rayala Jr (101478443) - [GitHub](https://github.com/mariorayalajr)
 - **Member 5:** Rodrigo Lima (101495163) - [GitHub](https://github.com/rodrigolima46)
 - **Member 6:** Gabriel Mello de Freitas (101497594) - [GitHub](https://github.com/thegabrielmfreitas)
@@ -34,27 +35,59 @@ git pull origin main
 ```
 git push origin studentid-Name
 ```
-
-### If you fork the repository, you can follow these instructions:
-1. Clone the repository by using:
+4. **Utilize your preferred text editor to create and modify content**, and then proceed with the following commands.
+**Add** your modify or new files:
 ```
-git clone https://github.com/your-username/COMP2156_Group35_Assignment.git
+git add .
 ```
-
-2. Create a new branch using:
+**Commit** your changes:
 ```
-git checkout -b studentid-Name
+git commit -m “Your commit message here”
 ```
-
-3. Edit, add, and commit your changes and then push your changes to the remote repository using:
+**Push** your changes to the **remote repository** with:
 ```
 git push origin studentid-Name
 ```
 
-5. Create a pull request to the main branch by using the GitHub interface.
-  ![create new file option](/images/pull-request.png)
+5. Go to the **GitHub repository page**. You should see a **prompt** to **create a pull request** for **your recently pushed branch**. Click on **"Compare & pull request".**
+![create new file option](/images/pull-request.png)
+
+6. **Wait for the pull request** to be **reviewed and merged** that only the leader of the group can do.
+
+### If you fork the repository, you can follow these instructions:
+**Fork the repository “COMP2156_Group35_Assignment”** by clicking the **Fork button** in the top-right corner to create a copy of this repository in your GitHub account.
+![create new file option](/images/fork-button.png) 
+
+1. **Clone your Fork repository** by using:
+![create new file option](/images/link.png)
+```
+git clone https://github.com/your-username/COMP2156_Group35_Assignment.git
+```
+Navigate to the repository folder:  cd COMP2156_Group35_Assignment
+
+2. Create a **new branch** by using:
+```
+git checkout -b studentid-Name
+```
+
+3. Modify the file that you intend to update and then **stage your changes**:
+```
+git add .
+```
+**Commit your changes**:
+```
+git commit -m “Your commit message here”
+```
+**Push** the Changes to **Your Fork**:
+
+```
+git push origin studentid-Name
+```
+
+4. ** Create a pull request (PR)** Go to your forked repository on GitHub. **Click the Contribute button** and select **Open pull request**. GitHub will prompt you to compare changes. **Ensure:** The base repository is **eduloor17/COMP2156_Group35_Assignment.** The compare branch is the branch you just pushed to your fork. Add a **title** and **description** or **use the template** for your pull request. When you are ready **Click Create pull request.**
+![create new file option](/images/pull-request-fork.png)
  
-7. Wait for the pull request to be reviewed and merged that only the leader can do.
+5. Wait for the pull request to be reviewed and merged that only the leader can do.
 
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in the [ci.yml file](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/.github/workflows/ci.yml).
@@ -83,6 +116,15 @@ I have produced three text files in my work:
   [101543651_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101543651_devops.txt)
   3. Discuss how DevOps improves processes and collaboration in software development.
   [101543651_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101543651_sdlc.txt)
+
+### StudendID: 101486513 - Jeremy Puican
+Three .txt files have been included:
+1. Summarize the history and achievements of George Brown College.
+[101486513_gb.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101486513_gb.txt)
+2. Describe the content and practical focus of the COMP2156-DevOps course.
+[101486513_devops.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101486513_devops.txt)
+3. Elaborate on the impact of DevOps on the SDLC and its benefits for teams and projects.
+[101486513_sdlc.txt](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/101486513_sdlc.txt)
 
 ### StudendID: 101478443 - Mario Rayala Jr
 I have created three text files as part of my work:
