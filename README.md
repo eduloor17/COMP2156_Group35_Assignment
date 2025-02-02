@@ -22,7 +22,7 @@ git clone https://github.com/eduloor17/COMP2156_Group35_Assignment.git.
 git checkout studentid-Name
 ```
 
-3. **Prior to commencing any tasks**, ensure that the **following steps are up to date**.
+3. **Prior to commencing any tasks**, ensure that the ** following steps are up to date **.
 **Update all branches**:
 ```
 git fetch
