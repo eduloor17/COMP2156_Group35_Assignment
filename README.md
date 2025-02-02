@@ -22,7 +22,7 @@ git clone https://github.com/eduloor17/COMP2156_Group35_Assignment.git.
 git checkout studentid-Name
 ```
 
-3. **Prior to commencing any tasks**, ensure that the ** following steps are up to date **.
+3. **Prior to commencing any tasks**, ensure that the **following steps are up to date**.
 **Update all branches**:
 ```
 git fetch
@@ -84,18 +84,17 @@ git commit -m “Your commit message here”
 git push origin studentid-Name
 ```
 
-4. ** Create a pull request (PR)** Go to your forked repository on GitHub. **Click the Contribute button** and select **Open pull request**. GitHub will prompt you to compare changes. **Ensure:** The base repository is **eduloor17/COMP2156_Group35_Assignment.** The compare branch is the branch you just pushed to your fork. Add a **title** and **description** or **use the template** for your pull request. When you are ready **Click Create pull request.**
+4. **Create a pull request (PR)** Go to your forked repository on GitHub. **Click the Contribute button** and select **Open pull request**. GitHub will prompt you to compare changes. **Ensure:** The base repository is **eduloor17/COMP2156_Group35_Assignment.** The compare branch is the branch you just pushed to your fork. Add a **title** and **description** or **use the template** for your pull request. When you are ready **Click Create pull request.**
 ![create new file option](/images/pull-request-fork.png)
  
 5. Wait for the pull request to be reviewed and merged that only the leader can do.
 
 ## CI/CD Pipeline
-The project utilizes GitHub Actions for continuous integration. The workflow is defined in the [ci.yml file](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/.github/workflows/ci.yml).
+The project utilizes **GitHub Actions** for continuous integration. The workflow is defined in the [ci.yml file](https://github.com/eduloor17/COMP2156_Group35_Assignment/blob/main/.github/workflows/ci.yml).
 You can view the workflow file directly by clicking the link above.
 
 ## Branching Strategy
-Branch Protection Rules are enabled to ensure all changes are reviewed and merged by the leader before integration into the main repository, including both direct contributions and those from forks.
-
+**Branch Protection Rules** are enabled to ensure all changes are reviewed and merged by the leader before integration into the main repository, including both direct contributions and those from forks.
 
 ## Group Assignment - Files details
 
