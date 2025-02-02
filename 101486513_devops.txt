@@ -3,3 +3,4 @@ Using IaC to configure servers and environments.
 Kubernetes for scaling and managing containers.
 Designed for students in technology-focused programs like Software Development or IT
 Teaches students to use tools like Jira or Trello for task management.
+Ansible or Chef for configuration management.
