@@ -54,9 +54,13 @@ git push origin studentid-Name
 
 6. **Wait for the pull request** to be **reviewed and merged** that only the leader of the group can do.
 
-### If you fork the repository, you can follow these instructions:
-**Fork the repository “COMP2156_Group35_Assignment”** by clicking the **Fork button** in the top-right corner to create a copy of this repository in your GitHub account.
-![create new file option](/images/fork-button.png) 
+### 🚀 If you fork the repository, you can follow these instructions:
+**Fork the repository “COMP2156_Group35_Assignment”** by clicking the **Fork button** in the top-right corner.
+![create new file option](/images/fork-button.png)
+
+If you would like to **fork this repository** through code **using JavaScript**, please **click the button below** to create a **copy of this repository** in your **GitHub account**.
+
+[![🔹 Fork on GitHub](https://img.shields.io/badge/Fork%20on-GitHub-238636?style=for-the-badge&logo=github)](https://github.com/eduloor17/COMP2156_Group35_Assignment/fork)
 
 1. **Clone your Fork repository** by using:
 ![create new file option](/images/link.png)
