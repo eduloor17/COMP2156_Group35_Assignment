@@ -1,8 +1,8 @@
 Deploying a multi-container application using Docker Compose.
 Deploying applications on virtual machines (VMs) and containers.
 Understand the importance of feedback loops in improving processes.
-Encourages teamwork through group projects
-Slack and other tools for team communication and collaboration
+Encourages teamwork through group projects.
+Slack and other tools for team communication and collaboration.
 Cloud Computing: Deploying applications on platforms like AWS, Azure, or Google Cloud
 Provides opportunities to practice peer code reviews.
 Develop an understanding of security in the CI/CD pipeline.
