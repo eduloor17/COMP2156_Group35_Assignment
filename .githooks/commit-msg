@@ -1,0 +1,15 @@
+#!/bin/sh
+COMMIT_MSG_FILE=$1
+COMMIT_MSG=$(cat $COMMIT_MSG_FILE)
+
+if ! echo "$COMMIT_MSG" | grep -Eq "^(DEVOPS|devops|GB|gb|SDLC|sdlc|Other|other): .+"; then
+  echo "Commit message must follow the format: <type>: <description>"
+  echo "✅ Example: DEVOPS: information added"
+  echo "✅ Example: sdlc: new update!"
+  echo "✅ Example: gb: changes by <name>"
+  echo "✅ Example: Other: changes by <name>"
+  echo "❌ Commit rejected --> Gb: changes by <name>" 
+  exit 1
+fi
+
+echo "✅ Commit message format is correct."
