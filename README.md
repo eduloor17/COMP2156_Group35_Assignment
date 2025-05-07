@@ -2,7 +2,7 @@
 
 ![create new file option](/images/logo-group35.png)
 
-## Group Member
+## Group Members
 - **Leader:** Eduardo Loor (101503932) - [GitHub](https://github.com/eduloor17)
 - **Member 2:** Athittaya Thiprak (101543651) - [GitHub](https://github.com/ayathita)
 - **Member 3:** Jeremy Puican (101486513) - [GitHub](https://github.com/jeremyp07)
